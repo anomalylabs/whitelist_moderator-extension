@@ -3,5 +3,5 @@
 return [
     'title'       => 'Whitelist Moderator',
     'name'        => 'Whitelist Moderator Extension',
-    'description' => ''
+    'description' => 'A simple whitelist moderator for the comments module.',
 ];
