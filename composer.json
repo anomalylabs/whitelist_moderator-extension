@@ -1,5 +1,5 @@
 {
-    "name": "whitelist_moderator-extension",
+    "name": "anomaly/whitelist_moderator-extension",
     "type": "streams-addon",
     "description": "A basic white list moderator for the comments module.",
     "keywords": [
